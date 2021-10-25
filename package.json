@@ -1,0 +1,19 @@
+{
+  "name": "ncm",
+  "version": "1.0.0",
+  "author": "Felipe Mota",
+  "scss": "./scss/cayman.scss",
+  "devDependencies": {
+    "autoprefixer": "^6.6.0",
+    "grunt": "~1.4.1",
+    "grunt-browser-sync": "~2.2.0",
+    "grunt-contrib": "^0.11.0",
+    "grunt-contrib-watch": "~1.1.0",
+    "grunt-postcss": "~0.9.0",
+    "grunt-sass": "~3.1.0"
+  },
+  "dependencies": {
+    "node-sass": "^4.11.0",
+    "pixrem": "^5.0.0"
+  }
+}
